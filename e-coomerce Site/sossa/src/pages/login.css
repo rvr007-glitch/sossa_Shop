@@ -1,0 +1,46 @@
+.regcontainer{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient( rgba(138, 90, 90, 0.5),rgba(138, 90, 90, 0.5)), url("https://i.ibb.co/sbTqN7x/omid-armin-Wx-Vm-Uuu-Bpg-unsplash-2.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    
+}
+.regwrapper{
+    padding: 20px;
+    width: 25%;
+    border: 3px dashed white;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.infield{
+    flex: 1;
+    min-width: 40%;
+    margin: 15px  0px;
+    padding: 10px;
+}
+.agreement{
+    font-size: 12px;
+    margin: 20px 0px ;
+}
+.Create{
+    width: 40%;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    background-color: rgb(245, 240, 240);
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+a{
+    margin: 5px 0px;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}

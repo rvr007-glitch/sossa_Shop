@@ -1,0 +1,42 @@
+.regcontainers{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient( rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.3)), url("https://i.ibb.co/0XL6fg3/raamin-ka-8-J56b-YMT3-Q-unsplash.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    
+}
+.regwrapper{
+    padding: 20px;
+    width: 40%;
+    border: 3px dashed white;
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.infield{
+    flex: 1;
+    min-width: 40%;
+    margin: 20px 10px 0px 0px;
+    padding: 10px;
+}
+.agreements{
+    color: black;
+    font-size: 12px;
+    margin: 20px 0px ;
+    opacity: 3;
+}
+.Creates{
+    background: teal;
+    width: 40%;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}

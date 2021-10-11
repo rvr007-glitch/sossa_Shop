@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    
+    background-color: teal;
+    height: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 600;
+    overflow-x: hidden;
+}

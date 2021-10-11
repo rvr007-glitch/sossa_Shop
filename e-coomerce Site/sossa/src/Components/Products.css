@@ -1,0 +1,9 @@
+.proscontainer{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #fcf5f5;
+    overflow: hidden;
+
+}
